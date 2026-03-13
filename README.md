@@ -20,7 +20,7 @@ Me apasiona llevar la teoría a la práctica. Aquí puedes ver mi **Trabajo de F
 
 <div align="center">
   <a href="https://github.com/sandrafrv/TFG-Implantacion_Segura_y_Automatizada_de_Odoo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandrafrv&repo=TFG-Implantacion_Segura_y_Automatizada_de_OdooB&theme=tokyonight&show_icons=true&hide_border=true" alt="TFG ASIR Sandra Fradejas" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandrafrv&repo=TFG-Implantacion_Segura_y_Automatizada_de_Odoo&theme=tokyonight&show_icons=true&hide_border=true" alt="TFG ASIR Sandra Fradejas" />
   </a>
 </div>
 
